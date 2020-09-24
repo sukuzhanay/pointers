@@ -1,2 +1,4 @@
-// Incluimos libraries.
-#include <iostream>
+
+using namespace std;
+print("Hi");
+
